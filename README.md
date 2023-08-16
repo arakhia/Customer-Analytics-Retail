@@ -6,7 +6,6 @@
 - [Overview](#overview)
 - [Metrics/KPIs](#metrics-kpis)
 - [SQL Results](#sql-results)
-- [Acknowledgements](#acknowledgements)
 - [References](#references)
 
 ## Overview
@@ -71,9 +70,6 @@ Order By CLV DESC
 **Note**: Due to dataset limitation, I'm using the unit price as a revenue in calculations.
 
 
-## Acknowledgements
-
-Test 4
 
 ## References
 
