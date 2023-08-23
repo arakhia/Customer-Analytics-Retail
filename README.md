@@ -6,6 +6,8 @@
 - [Overview](#overview)
 - [Metrics/KPIs](#metrics-kpis)
 - [SQL Results](#sql-results)
+- [Mall Customers Segmentation](#mall-customers-segmentation)
+- [Credits](#credits)
 - [References](#references)
 
 ## Overview
@@ -69,6 +71,17 @@ Order By CLV DESC
 
 **Note**: Due to dataset limitation, I'm using the unit price as a revenue in calculations.
 
+## Mall Customers Segmentation
+
+Here we make customers segments based on their Income and Spending Score. Please check the customers_segmentation.ipynb nootbook, [click here](customers_segmentation.ipynb)
+
+![customers_segmentation_icon](customers_segmentation_icon.png)
+
+<br> <br> <br>
+
+## Credits
+
+The Customer Clustering is inspired from [Absent Data](https://www.youtube.com/watch?v=iwUli5gIcU0) Youtube Channel, the data from there as well
 
 
 ## References
