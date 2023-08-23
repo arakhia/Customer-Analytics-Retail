@@ -71,6 +71,11 @@ Order By CLV DESC
 
 **Note**: Due to dataset limitation, I'm using the unit price as a revenue in calculations.
 
+
+
+<br>
+
+
 ## Mall Customers Segmentation
 
 Here we make customers segments based on their Income and Spending Score. Please check the customers_segmentation.ipynb nootbook, [click here](customers_segmentation.ipynb)
